@@ -11,10 +11,12 @@ public class Day2GitGithub {
     Yalnız git push komutunu direkt kullanmak istersek 1 kez
        git remote add origin adress
        git push -u origin master
+    6-) git pull --> Remote (yani uzak repo)dosyalarimizi guncellemek icin kullanilir
      NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
      kullanırız
      NOT: git log --oneline --> Commitlerimdeki yani versiyonlarimdaki durumu gosterir
      NOT: Github ogrendim
+     
      */
     public static void main(String[] args) {
         System.out.println("Github'i da ogrendim");
